@@ -175,7 +175,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: rgba(86, 184, 230, 0.8);
+  background: var(--color-secondary);
   color: #fff;
 }
 
@@ -336,7 +336,7 @@ section {
   }
 
   .navbar .dropdown ul li {
-    min-width: 200px;
+    min-width: 100px;
   }
 
   .navbar .dropdown ul a {
@@ -2371,4 +2371,23 @@ section {
   background: var(--color-secondary);
   color: #fff;
   text-decoration: none;
+}
+
+/*--------------------------------------------------------------
+# TNTT Customization
+--------------------------------------------------------------*/
+.au-nhi:hover {
+  color: #87e44d !important;
+}
+
+.thieu-nhi:hover {
+  color: #0029ff !important;
+}
+
+.nghia-si:hover {
+  color: #ffd900 !important;
+}
+
+.hiep-si:hover {
+  color: #851111 !important;
 }
