@@ -578,7 +578,7 @@ section {
 }
 
 .hero .btn-get-started:hover {
-  background: #8ba0cb;
+  background: #a92626;
 }
 
 .hero .btn-watch-video {
@@ -602,7 +602,7 @@ section {
 }
 
 .hero .btn-watch-video:hover i {
-  color: #8ba0cb;
+  color: #a92626;
 }
 
 @media (max-width: 640px) {
@@ -2390,4 +2390,8 @@ section {
 
 .hiep-si:hover {
   color: #851111 !important;
+}
+
+.veym:hover {
+  color: #a92626 !important;
 }
